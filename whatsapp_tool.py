@@ -7,12 +7,12 @@ import string
 from colorama import Fore, Style, init
 init(autoreset=True)
 import os
-print(f"Created by **>>BayLak<<** 2025/01/22")
+print(f"Created by **>>ᴄʏʙᴇʀ-ᴀᴅʜɪ-ᴏꜰᴠ<<** 2025/04/13")
 def is_valid_country_code(phone_number):
     pattern = r"^\+\d{1,4}\d{10,12}$"  # Modified to allow 10 to 12 digits
     return re.match(pattern, phone_number) is not None
 while True:
-    user_input = input(Fore.CYAN + "Enter the phone number with country code (e.g. +20123456789): ")
+    user_input = input(Fore.CYAN + "Enter the phone number with country code (e.g. +94756310995): ")
     
     # Validate using the regular expression
     if is_valid_country_code(user_input):
@@ -35,7 +35,7 @@ while True:
         else:
             print("Invalid choice, please choose 'ban' or 'unban'.")
     else:
-        print(f"{Fore.RED}Please enter a valid number with a country code, like: +20123456789")
+        print(f"{Fore.RED}Please enter a valid number with a country code, like: +94756310995")
 def get_request_count():
     while True:
         try:
