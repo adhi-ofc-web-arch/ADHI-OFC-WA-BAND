@@ -16,11 +16,11 @@ pip install requests
 *************************************************************
 pip install colorama
 *************************************************************
-git clone https://github.com/adhi-ofc-web-arch/ADHI-OFC-WA-BAND.git && cd Tool_Ban_WhatsappV1.1
+git clone https://github.com/adhi-ofc-web-arch/ADHI-OFC-WA-BAND.git && cd ADHI-OFC-WA-BAND
 *************************************************************
 python main.py if you cant start script
 *************************************************************
 *** +94##### --> test number
 *************************************************************
-open new > cd Tool_Ban_WhatsappV1.1 && python main.py
+open new > cd ADHI-OFC-WA-BAND && python main.py
 *************************************************************
