@@ -16,7 +16,7 @@ pip install requests
 *************************************************************
 pip install colorama
 *************************************************************
-git clone https://github.com/BayLak-ONE/Tool_Ban_WhatsappV1.1.git && cd Tool_Ban_WhatsappV1.1
+git clone https://github.com/adhi-ofc-web-arch/ADHI-OFC-WA-BAND.git && cd Tool_Ban_WhatsappV1.1
 *************************************************************
 python main.py if you cant start script
 *************************************************************
