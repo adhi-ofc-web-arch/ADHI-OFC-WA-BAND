@@ -1,4 +1,4 @@
-# Tool_Ban_WhatsappV1.1
+# ADHI-OFC-WA-BAND-TOOL
 <img width="250" alt="Image" src="https://github.com/user-attachments/assets/1d341043-e27b-4eb5-9958-07bbbce029fd" />
 It is a group of robots that send reporting requests from different devices to the number 
 
