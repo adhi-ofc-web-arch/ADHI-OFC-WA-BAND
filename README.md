@@ -4,7 +4,7 @@ It is a group of robots that send reporting requests from different devices to t
 
 band or unband whatsapp using termux or kali by python script
 =
-pkg install && pkg upgrade
+apt update && apt upgrade
 *************************************************************
 pkg install git
 *************************************************************
